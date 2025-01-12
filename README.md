@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with expertise 
 ## 📫 How to Reach Me:
 - LinkedIn: [Arpita Deb](https://www.linkedin.com/in/arpitadeb595/)
 
-Feel free to check out my projects below!
+Feel free to check out my certificates below!
 https://drive.google.com/drive/u/0/folders/1BbTPg7ZHMJ5iz77i1hysElBAdb7i09Hy
 ---
 
