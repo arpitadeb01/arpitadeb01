@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with expertise 
 🔭 **Currently Working On:**
 - Enhancing my personal **CineCraft Movie Recommendation System** built with React.js, Firebase, and advanced search algorithms.
 - Working on my DSA skills
-- ![Arpita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arpitadeb595&show_icons=true&count_private=true&theme=dark)
+![Arpita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arpitadeb01&show_icons=true&theme=radical)
 
   
 🌱 **I’m Currently Learning:**
