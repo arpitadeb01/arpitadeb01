@@ -1,3 +1,8 @@
+![Arpita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arpitadeb01&show_icons=true&theme=radical)
+
+
+
+
 # Hi, I'm Arpita Deb 👋
 
 Welcome to my GitHub profile! I'm a passionate software engineer with expertise in full-stack development and a deep interest in web applications, machine learning, and problem-solving.
@@ -5,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with expertise 
 🔭 **Currently Working On:**
 - Enhancing my personal **CineCraft Movie Recommendation System** built with React.js, Firebase, and advanced search algorithms.
 - Working on my DSA skills
-![Arpita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arpitadeb01&show_icons=true&theme=radical)
+
 
   
 🌱 **I’m Currently Learning:**
